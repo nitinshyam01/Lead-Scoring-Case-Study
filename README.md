@@ -26,7 +26,7 @@ X Education has appointed you to help them select the most promising leads, i.e.
    * Plotting ROC Curve
    * Finding Optimal Cutoff Point
    * Precision Recall Tradeoff analysis
-   * Determining Optimal Cutoff to achieve the objective of 80% conversion for hot leads git\ 
+   * Determining Optimal Cutoff to achieve the objective of 80% conversion for hot leads git \ 
  Making Predection on test set
 
  ## Contents of the folder
