@@ -26,11 +26,12 @@ X Education has appointed you to help them select the most promising leads, i.e.
    * Plotting ROC Curve
    * Finding Optimal Cutoff Point
    * Precision Recall Tradeoff analysis
-   * Determining Optimal Cutoff to achieve the objective of 80%   conversion for hot leads
-   * Making Predection on test set
+   * Determining Optimal Cutoff to achieve the objective of 80% conversion for hot leads git 
+ Making Predection on test set
 
  ## Contents of the folder
  Lead Scoring Case Study.ipynb\
  Lead Scoring Case Study Summary\
  Assignment Subjective Questions\
- Lead Scoring Case Study Presentation
+ Lead Scoring Case Study Presentation\
+ README.md
