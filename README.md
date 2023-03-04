@@ -13,24 +13,24 @@ Now, although X Education gets a lot of leads, its lead conversion rate is very 
 X Education has appointed you to help them select the most promising leads, i.e. the leads that are most likely to convert into paying customers. The company requires you to build a model wherein you need to assign a lead score to each of the leads such that the customers with a higher lead score have a higher conversion chance and the customers with a lower lead score have a lower conversion chance. thr target lead conversion rate should be around 80%.
 
 ## Solution Summary
- Reading and Understanding the data 
- Data Cleaning
- Data Analysis
- Data Preprepration
-    Creating Dummy Variabels
-    Handling Outliers
-    Feature Scaing
- Test Train Slit
- Model Building
-    Feature selection using RFE
-    Plotting ROC Curve
-    Finding Optimal Cutoff Point
-    Precision Recall Tradeoff analysis
-    Determining Optimal Cutoff to achieve the objective of 80% conversion for hot leads
- Making Predection on test set
+ Reading and Understanding the data \
+ Data Cleaning \
+ Data Analysis\
+ Data Preprepration\
+    Creating Dummy Variabels\
+    Handling Outliers\
+    Feature Scaing\
+ Test Train Slit\
+ Model Building\
+   * Feature selection using RFE\
+   * Plotting ROC Curve\
+   * Finding Optimal Cutoff Point\
+   * Precision Recall Tradeoff analysis\
+   * Determining Optimal Cutoff to achieve the objective of 80% *   conversion for hot leads
+   * Making Predection on test set\
 
  ## Contents of the folder
- Lead Scoring Case Study.ipynb
- Lead Scoring Case Study Summary
- Assignment Subjective Questions
- Lead Scoring Case Study Presentation
+ Lead Scoring Case Study.ipynb\
+ Lead Scoring Case Study Summary\
+ Assignment Subjective Questions\
+ Lead Scoring Case Study Presentation\
