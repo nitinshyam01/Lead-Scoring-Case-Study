@@ -20,7 +20,7 @@ X Education has appointed you to help them select the most promising leads, i.e.
     Creating Dummy Variabels\
     Handling Outliers\
     Feature Scaing\
- Test Train Slit\
+ Test Train Split\
  Model Building
    * Feature selection using RFE
    * Plotting ROC Curve
